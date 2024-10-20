@@ -1,5 +1,5 @@
-# Made with ❤ by @adearman
-# Join tele channel for update t.me/ghalibie
+# Made with ❤ by @iamak_roy
+# Join tele channel for update t.me/scripthub00
 import argparse
 import random
 from urllib.parse import parse_qs, unquote
@@ -8,7 +8,7 @@ from requests.structures import CaseInsensitiveDict
 import time
 from datetime import datetime, timezone
 
-start_time = datetime.now()  # Tentukan waktu mulai saat bot dijalankan
+start_time = datetime.now()  # Specify the start time when the bot runs.
 
 headers = {
         'accept': 'application/json, text/plain, */*',
@@ -986,7 +986,7 @@ def start():
     print(r"""
         
                     BLUM BOT
-    find new airdrop & bot here: t.me/sansxgroup
+    find new airdrop & bot here: t.me/scripthub00
               
         select this one :
         1. claim daily & auto play game
