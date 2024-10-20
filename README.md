@@ -3,9 +3,9 @@ BLUM Bot
 
 support my github channel 
 
-Register Here : [BLUM Bot](https://t.me/BlumCryptoBot/app?startapp=ref_z2MpJGToqt)
+Register Here : [BLUM Bot]()
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
+Join to My Telegram Group : [SCRIPT HUB](https://t.me/scripthub00)
 
 
 ## Tutorial
